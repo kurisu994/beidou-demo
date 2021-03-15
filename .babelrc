@@ -1,0 +1,23 @@
+{
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "libraryDirctory": "es",
+        "style": true
+      },
+      "_antd"
+    ],
+    ["import", { "libraryName": "antd-mobile", "style": true }, "_antd-mobile"]
+  ],
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "usage",
+        "corejs": 3
+      }
+    ]
+  ]
+}

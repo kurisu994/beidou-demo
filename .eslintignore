@@ -1,0 +1,23 @@
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+
+# Ignore built files except build/index.js
+build/*
+/node_modules
+node_modules
+/node_modules/*
+*.min.js
+*.handle.js
+*.min.css
+lib/
+node_modules/
+build/
+run/
+logs/
+/docs
+/.vscode
+.eslintrc.js
+.prettierrc.js
+package.json
+package-lock.json
+yarn.lock
+yarn-error.log

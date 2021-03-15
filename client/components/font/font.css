@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'DINBOLD';
+  src: url('./dinbold.ttf') format('truetype');
+}
+
+.DINBOLD {
+  font-family: 'DINBOLD' !important;
+}

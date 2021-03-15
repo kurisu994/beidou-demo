@@ -1,0 +1,16 @@
+.DS_Store
+.stats
+build/
+run/
+logs/
+config.json
+.vscode/
+.isomorphic/
+.project
+yarn.lock
+yarn-error.log
+package-lock.json
+node_modules
+.isomorphic/
+.idea/
+.stats
